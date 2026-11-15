@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/veyra.Api/veyra.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/veyra.Tests/">
+    <Project Path="tests/veyra.Tests/veyra.test.csproj" />
+  </Folder>
+</Solution>
